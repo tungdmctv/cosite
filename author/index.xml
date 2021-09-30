@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on สำนักสื่อสารองค์กร</title>
-    <link>http://zoom10/author/</link>
+    <link>https://tungdmctv.github.io/cosite/author/</link>
     <description>Recent content in Author on สำนักสื่อสารองค์กร</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="http://zoom10/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 10:13:00 +0600</lastBuildDate><atom:link href="https://tungdmctv.github.io/cosite/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>พระมหาทศพร ปุญฺญงฺกุโร</title>
-      <link>http://zoom10/author/tungdmctv/</link>
+      <link>https://tungdmctv.github.io/cosite/author/tungdmctv/</link>
       <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
       
-      <guid>http://zoom10/author/tungdmctv/</guid>
+      <guid>https://tungdmctv.github.io/cosite/author/tungdmctv/</guid>
       <description>Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.</description>
     </item>
     
