@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tungdmctv.github.io/cosite/blog/2021-09-30-1157/</loc>
-    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tungdmctv.github.io/cosite/blog/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,6 +12,9 @@
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tungdmctv.github.io/cosite/categories/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tungdmctv.github.io/cosite/blog/2021-09-30-1157/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tungdmctv.github.io/cosite/categories/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4/</loc>
